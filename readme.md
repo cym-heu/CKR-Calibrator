@@ -10,7 +10,7 @@ cd script
 
 
 
-##### opten tensorboard
+### open tensorboard
 
 ```
 tensorboard --logdir=/root/robust_eval/output/squeezenet_cifar10/pretrained/runs
